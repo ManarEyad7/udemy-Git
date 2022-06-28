@@ -1,4 +1,4 @@
-## Udemy-git Course
+## Udemy introduction to git Course
 ### first Assignment
 
 name : my name
