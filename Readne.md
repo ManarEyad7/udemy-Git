@@ -1,5 +1,5 @@
 ## Udemy-git Course
-### first Assigment
+### first Assignment
 
-Name: manar eyad
-Note: Good luck
+name : my name
+course name : git and gitHub
